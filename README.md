@@ -29,6 +29,7 @@ Each lab explores the configuration, segmentation, and defense of industrial net
 ot-security-labs/
 ├── screenshots/
 ├── 01-siemens-scalance-firewall/
+├───├─ 01-build-guide.md
 │   └── README.md
 └── LICENSE
 ```
