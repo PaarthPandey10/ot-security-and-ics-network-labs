@@ -32,6 +32,6 @@ For any questions or feedback, reach out:
 
 ---
 
-> Author: Paarth Pandey*
+> Author: Paarth Pandey
 > 
-> OT Security Labs: Industrial Network Defense*
+> OT Security Labs: Industrial Network Defense
