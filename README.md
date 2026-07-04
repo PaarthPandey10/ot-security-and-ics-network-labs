@@ -97,5 +97,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ---
 
-*Author: Paarth Pandey*
-*Note: All labs in this repository are based on hands-on engineering work with physical Operational Technology (OT) hardware. Screenshots and command flows are reused respectfully for learning and documentation purposes only.*
+> Author: Paarth Pandey
+>
+> OT Security & ICS Networking Labs
