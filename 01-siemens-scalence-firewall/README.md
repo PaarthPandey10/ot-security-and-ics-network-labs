@@ -1,4 +1,4 @@
-Infrastructure Build Guide: Bare-Metal Siemens SCALANCE ICS Firewall
+01-siemens-scalence-firewall: Infrastructure Build Guide: Bare-Metal Siemens SCALANCE ICS Firewall
 
 A visual guide documenting the hardware inspection, network segmentation, and native SOC telemetry integration of an industrial perimeter firewall.
 
