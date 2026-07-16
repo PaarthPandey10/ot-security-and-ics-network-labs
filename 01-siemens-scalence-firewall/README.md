@@ -34,4 +34,4 @@ For any questions or feedback, reach out:
 
 > Author: Paarth Pandey
 > 
-> OT Security Labs: Industrial Network Defense
+> Enterprise IT/OT Infrastructure Security Lab Portfolio

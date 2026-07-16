@@ -70,7 +70,7 @@ This repository is organized by hardware vendor and functional security domain, 
 
 > Author: Paarth Pandey
 > 
-> OT Security Labs: Industrial Network Defense
+> Enterprise IT/OT Infrastructure Security Lab Portfolio
 
 
 *Note: All portfolios are compiled from actual hands-on engineering lab environments utilizing physical hardware. Visual documentation, topology diagrams, and command-line outputs are provided for learning and portfolio demonstration purposes.*

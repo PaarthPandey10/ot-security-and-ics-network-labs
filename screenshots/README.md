@@ -26,6 +26,6 @@ For any questions or feedback, reach out:
 
 —
 
-> Author: [Paarth Pandey](https://github.com/paarthpandey10)  
->  
-> OT Security Labs: Industrial Network Defense
+> Author: Paarth Pandey
+> 
+> Enterprise IT/OT Infrastructure Security Lab Portfolio
