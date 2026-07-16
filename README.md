@@ -67,4 +67,10 @@ This repository is organized by hardware vendor and functional security domain, 
 **Paarth Pandey**
 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com) | paarthdxb@gmail.com
 
+
+> Author: Paarth Pandey
+> 
+> OT Security Labs: Industrial Network Defense
+
+
 *Note: All portfolios are compiled from actual hands-on engineering lab environments utilizing physical hardware. Visual documentation, topology diagrams, and command-line outputs are provided for learning and portfolio demonstration purposes.*
