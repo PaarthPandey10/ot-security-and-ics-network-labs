@@ -14,7 +14,7 @@ enterprise-it-ot-infrastructure-security-labs/
 │   ├── 02-firewall-config.md
 │   ├── 03-modbus-filtering.md
 │   └── 04-s7-filtering.md
-├── 02-cisco-sf300-hardened-edge-fabric/
+├── 02-cisco-sf300-24p-l3-switch
 │   ├── README.md
 │   ├── 2.1-inter-vlan-routing/
 │   │   ├── 2.1-build-guide.md
